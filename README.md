@@ -1,2 +1,3 @@
 # hasini
-This is my First Dit Repository.
+This is my First Git Repository.
+iiitm
